@@ -13,7 +13,7 @@ body{
     display: flex;
     align-items: center;
     cursor: pointer;
-}
+} 
 
 .sidebaroption .material-symbols-outlined, .fa-twitter {
     padding: 20px;
